@@ -10,7 +10,7 @@
 <sub>*"If you're scared of falling, you'll just fall even more."* - Oshi no Ko</sub>
 
 <br/>
-
+<br/>
 [![](https://img.shields.io/badge/🧰_Stack-0a0612?style=flat-square)](##-tech-stack)
 [![](https://img.shields.io/badge/🏆_Hackathons-0a0612?style=flat-square)](##-hackathons)
 [![](https://img.shields.io/badge/📊_Stats-0a0612?style=flat-square)](##-github-stats)
@@ -19,7 +19,7 @@
 </div>
 
 <br/>
-
+<br/>
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -42,7 +42,7 @@
 </div>
 
 <br/>
-
+<br/>
 ## 🏆 Hackathons & Achievements
 
 ```
@@ -53,7 +53,7 @@
 ```
 
 <br/>
-
+<br/>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -68,7 +68,7 @@
 </div>
 
 <br/>
-
+<br/>
 ## ⚡ About Me
 
 ```python

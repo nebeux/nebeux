@@ -19,7 +19,7 @@
 </div>
 
 <br/>
-<br/>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -43,6 +43,7 @@
 
 <br/>
 <br/>
+
 ## 🏆 Hackathons & Achievements
 
 ```
@@ -52,8 +53,8 @@
 ✦ Always picking up new tech ............... ⚡ every leap year... ;)
 ```
 
-<br/>
-<br/>
+<br/><br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,6 +70,7 @@
 
 <br/>
 <br/>
+
 ## ⚡ About Me
 
 ```python

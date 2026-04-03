@@ -75,7 +75,7 @@
 
 ```python
 nebeux = {
-    "status":     "full-time coder & highschooler",
+    "status":     "coder & highschooler",
     "watching":   "none rn",
     "exploring":  ["advanced Python", "React projects", "Flask APIs"],
     "arch_enemy": "TypeError",

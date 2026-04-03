@@ -7,7 +7,7 @@
 
 *「落ちるのが怖いなら、もっと落ちてしまうだろう。」*
 <br/>
-<sub>If you're scared of falling, you'll just fall even more.</sub>
+<sub>"If you're scared of falling, you'll just fall even more." - Oshi no Ko</sub>
 
 <br/>
 

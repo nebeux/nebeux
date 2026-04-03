@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hey, I'm <strong>nebeux</strong></h1>
 <p align="center">
-  🚀 Builder • 💻 Hacker • 🧠 Learning by application
+  🚀 Full-Stack • 💻 Flask lover (genuinely) • 🧠 Learning by application
 </p>
 
 ---

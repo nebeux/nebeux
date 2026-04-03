@@ -3,10 +3,11 @@
 <img src="./banner.svg" width="100%" alt="nebeux banner"/>
 
 <br/>
-
-*「 この芸能界において、嘘は武器だ 」*
 <br/>
-<sub>In the world of entertainment, lies are weapons. — 【推しの子】</sub>
+
+*「落ちるのが怖いなら、もっと落ちてしまうだろう。」*
+<br/>
+<sub>If you're scared of falling, you'll just fall even more.</sub>
 
 <br/>
 

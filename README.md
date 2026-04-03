@@ -47,8 +47,8 @@
 ```
 ✦ 2nd Place — SMathHacks .................. 🥈 top 2
 ✦ 4 hackathons competed & shipped .......... 💻 and counting
-✦ Builds everything from scratch ........... 🔧 no shortcuts
-✦ Always picking up new tech ............... ⚡ every season
+✦ Builds everything from scratch ........... 🔧 flask lover
+✦ Always picking up new tech ............... ⚡ every leap year... ;)
 ```
 
 <br/>
@@ -73,7 +73,7 @@
 ```python
 nebeux = {
     "status":     "full-time coder & highschooler",
-    "watching":   "【推しの子】 — obsessed, no notes",
+    "watching":   "none rn",
     "exploring":  ["advanced Python", "React projects", "Flask APIs"],
     "arch_enemy": "TypeError",
     "philosophy": "learning by creating > everything else",

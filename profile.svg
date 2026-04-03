@@ -1,0 +1,297 @@
+<svg width="860" height="1420" viewBox="0 0 860 1420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- background gradients -->
+    <radialGradient id="bg1" cx="20%" cy="15%" r="55%">
+      <stop offset="0%" stop-color="#2d0f42"/>
+      <stop offset="100%" stop-color="#080410"/>
+    </radialGradient>
+    <radialGradient id="bg2" cx="80%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#1c0c35"/>
+      <stop offset="100%" stop-color="#080410" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg3" cx="40%" cy="80%" r="40%">
+      <stop offset="0%" stop-color="#1a0828"/>
+      <stop offset="100%" stop-color="#080410" stop-opacity="0"/>
+    </radialGradient>
+    <!-- glow blobs -->
+    <radialGradient id="gp1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#da3c72" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#da3c72" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4b2981" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#4b2981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gt1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#43bbc2" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#43bbc2" stop-opacity="0"/>
+    </radialGradient>
+    <!-- card fill -->
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14082a"/>
+      <stop offset="100%" stop-color="#0e0620"/>
+    </linearGradient>
+    <!-- tech badge fill -->
+    <linearGradient id="badge" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e0d38"/>
+      <stop offset="100%" stop-color="#130828"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- FULL PAGE BACKGROUND                        -->
+  <!-- ═══════════════════════════════════════════ -->
+  <rect width="860" height="1420" fill="url(#bg1)"/>
+  <rect width="860" height="1420" fill="url(#bg2)"/>
+  <rect width="860" height="1420" fill="url(#bg3)"/>
+
+  <!-- ambient glows scattered across page -->
+  <ellipse cx="180" cy="130" rx="260" ry="180" fill="url(#gp1)"/>
+  <ellipse cx="700" cy="90" rx="230" ry="160" fill="url(#gb1)"/>
+  <ellipse cx="100" cy="700" rx="180" ry="200" fill="url(#gb1)"/>
+  <ellipse cx="780" cy="950" rx="200" ry="180" fill="url(#gp1)"/>
+  <ellipse cx="430" cy="1250" rx="220" ry="160" fill="url(#gt1)"/>
+
+  <!-- page border lines -->
+  <line x1="0" y1="2" x2="860" y2="2" stroke="#4b2981" stroke-width="1" stroke-opacity="0.5"/>
+  <line x1="0" y1="1418" x2="860" y2="1418" stroke="#da3c72" stroke-width="2" stroke-opacity="0.6"/>
+  <line x1="2" y1="0" x2="2" y2="1420" stroke="#4b2981" stroke-width="1" stroke-opacity="0.25"/>
+  <line x1="858" y1="0" x2="858" y2="1420" stroke="#4b2981" stroke-width="1" stroke-opacity="0.25"/>
+
+  <!-- decorative vertical right strip -->
+  <text transform="translate(836,60) rotate(90)" font-family="monospace" font-size="10"
+        fill="#b89ec4" fill-opacity="0.35" letter-spacing="5">推しの子 · OSHI NO KO · 推しの子 · OSHI NO KO · 推しの子 · OSHI NO KO · 推しの子</text>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SECTION 1 — BANNER                          -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <!-- ghost watermark -->
+  <text x="44" y="230" font-family="monospace" font-size="160" font-weight="700"
+        fill="#f8d3e3" fill-opacity="0.03" letter-spacing="-6">NBX</text>
+
+  <!-- eyecatch -->
+  <text x="56" y="78" font-family="monospace" font-size="10"
+        fill="#da3c72" fill-opacity="0.7" letter-spacing="7">NEBEUX</text>
+
+  <!-- name -->
+  <text x="56" y="152" font-family="monospace" font-size="72" font-weight="700"
+        fill="#f8d3e3" letter-spacing="-2">nebeux</text>
+
+  <!-- pink accent bar -->
+  <rect x="56" y="94" width="3" height="68" rx="1" fill="#da3c72"/>
+
+  <!-- tagline -->
+  <text x="60" y="180" font-family="monospace" font-size="13"
+        fill="#b89ec4" letter-spacing="1.5">full-stack · flask lover · learning by doing</text>
+
+  <!-- stack strip below tagline -->
+  <text x="60" y="204" font-family="monospace" font-size="10"
+        fill="#43bbc2" fill-opacity="0.8" letter-spacing="2">Python · Flask · React · SQLite · Supabase · JS</text>
+
+  <!-- decorative dots -->
+  <rect x="60" y="216" width="34" height="2" rx="1" fill="#da3c72" fill-opacity="0.55"/>
+  <rect x="100" y="216" width="12" height="2" rx="1" fill="#4b2981" fill-opacity="0.55"/>
+  <rect x="118" y="216" width="6" height="2" rx="1" fill="#43bbc2" fill-opacity="0.45"/>
+
+  <!-- star decorations top right -->
+  <text x="640" y="88" font-family="serif" font-size="90"
+        fill="#da3c72" fill-opacity="0.1" font-weight="700">✦</text>
+  <text x="756" y="185" font-family="serif" font-size="46"
+        fill="#43bbc2" fill-opacity="0.13">✦</text>
+  <text x="600" y="195" font-family="serif" font-size="24"
+        fill="#f4dca5" fill-opacity="0.17">✦</text>
+
+  <!-- corner label -->
+  <text x="580" y="22" font-family="monospace" font-size="8"
+        fill="#da3c72" fill-opacity="0.4" letter-spacing="3">✦ GITHUB PROFILE ✦</text>
+
+  <!-- ONK quote -->
+  <text x="430" y="248" font-family="serif" font-size="11" font-style="italic"
+        fill="#b89ec4" fill-opacity="0.7" text-anchor="middle" letter-spacing="0.5">「 この芸能界において、嘘は武器だ 」</text>
+  <text x="430" y="264" font-family="monospace" font-size="9"
+        fill="#7a5c8a" text-anchor="middle" letter-spacing="1">In the world of entertainment, lies are weapons.  —  【推しの子】</text>
+
+  <!-- section divider -->
+  <line x1="56" y1="282" x2="804" y2="282" stroke="#4b2981" stroke-width="0.5" stroke-opacity="0.5"/>
+  <text x="56" y="278" font-family="monospace" font-size="7" fill="#4b2981" fill-opacity="0.4" letter-spacing="3">✦</text>
+  <text x="420" y="278" font-family="monospace" font-size="7" fill="#4b2981" fill-opacity="0.4" letter-spacing="3" text-anchor="middle">✦</text>
+  <text x="804" y="278" font-family="monospace" font-size="7" fill="#4b2981" fill-opacity="0.4" text-anchor="end">✦</text>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SECTION 2 — TECH STACK                      -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <!-- section header -->
+  <rect x="56" y="300" width="4" height="20" rx="2" fill="#da3c72"/>
+  <text x="68" y="316" font-family="monospace" font-size="13" font-weight="700"
+        fill="#f8d3e3" letter-spacing="4">TECH STACK</text>
+  <text x="200" y="316" font-family="monospace" font-size="8" fill="#4b2981" fill-opacity="0.5">🧰</text>
+
+  <!-- tech badge grid — row 1 -->
+  <!-- HTML -->
+  <rect x="56" y="334" width="88" height="32" rx="6" fill="url(#badge)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="100" y="355" font-family="monospace" font-size="11" fill="#da3c72" text-anchor="middle" letter-spacing="1">HTML5</text>
+  <!-- CSS -->
+  <rect x="154" y="334" width="88" height="32" rx="6" fill="url(#badge)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="198" y="355" font-family="monospace" font-size="11" fill="#b89ec4" text-anchor="middle" letter-spacing="1">CSS3</text>
+  <!-- JS -->
+  <rect x="252" y="334" width="88" height="32" rx="6" fill="url(#badge)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="296" y="355" font-family="monospace" font-size="11" fill="#f4dca5" text-anchor="middle" letter-spacing="1">JS</text>
+  <!-- Python -->
+  <rect x="350" y="334" width="100" height="32" rx="6" fill="url(#badge)" stroke="#da3c72" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="400" y="355" font-family="monospace" font-size="11" fill="#f4dca5" text-anchor="middle" letter-spacing="1">Python</text>
+  <!-- Flask -->
+  <rect x="460" y="334" width="88" height="32" rx="6" fill="url(#badge)" stroke="#da3c72" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="504" y="355" font-family="monospace" font-size="11" fill="#da3c72" text-anchor="middle" letter-spacing="1">Flask</text>
+  <!-- React -->
+  <rect x="558" y="334" width="88" height="32" rx="6" fill="url(#badge)" stroke="#43bbc2" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="602" y="355" font-family="monospace" font-size="11" fill="#43bbc2" text-anchor="middle" letter-spacing="1">React</text>
+
+  <!-- tech badge grid — row 2 -->
+  <!-- SQLite -->
+  <rect x="56" y="376" width="100" height="32" rx="6" fill="url(#badge)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="106" y="397" font-family="monospace" font-size="11" fill="#c9a8e8" text-anchor="middle" letter-spacing="1">SQLite</text>
+  <!-- Supabase -->
+  <rect x="166" y="376" width="110" height="32" rx="6" fill="url(#badge)" stroke="#43bbc2" stroke-width="0.75" stroke-opacity="0.4"/>
+  <text x="221" y="397" font-family="monospace" font-size="11" fill="#43bbc2" text-anchor="middle" letter-spacing="1">Supabase</text>
+  <!-- SQLAlchemy -->
+  <rect x="286" y="376" width="130" height="32" rx="6" fill="url(#badge)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="351" y="397" font-family="monospace" font-size="11" fill="#b89ec4" text-anchor="middle" letter-spacing="1">SQLAlchemy</text>
+  <!-- React Native -->
+  <rect x="426" y="376" width="136" height="32" rx="6" fill="url(#badge)" stroke="#43bbc2" stroke-width="0.75" stroke-opacity="0.4"/>
+  <text x="494" y="397" font-family="monospace" font-size="11" fill="#43bbc2" text-anchor="middle" letter-spacing="1">React Native</text>
+  <!-- Canva -->
+  <rect x="572" y="376" width="88" height="32" rx="6" fill="url(#badge)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="616" y="397" font-family="monospace" font-size="11" fill="#b89ec4" text-anchor="middle" letter-spacing="1">Canva</text>
+
+  <text x="56" y="428" font-family="monospace" font-size="9" fill="#7a5c8a" letter-spacing="1">✦  always adding more to the list</text>
+
+  <!-- section divider -->
+  <line x1="56" y1="446" x2="804" y2="446" stroke="#4b2981" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SECTION 3 — HACKATHONS                      -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <rect x="56" y="464" width="4" height="20" rx="2" fill="#f4dca5"/>
+  <text x="68" y="480" font-family="monospace" font-size="13" font-weight="700"
+        fill="#f8d3e3" letter-spacing="4">HACKATHONS</text>
+
+  <!-- card 1 — 2nd place -->
+  <rect x="56" y="494" width="730" height="66" rx="10" fill="url(#card)" stroke="#da3c72" stroke-width="0.75" stroke-opacity="0.45"/>
+  <rect x="56" y="494" width="4" height="66" rx="2" fill="#da3c72"/>
+  <!-- medal icon area -->
+  <rect x="72" y="510" width="36" height="36" rx="8" fill="#da3c72" fill-opacity="0.12"/>
+  <text x="90" y="533" font-family="monospace" font-size="16" fill="#f4dca5" text-anchor="middle">🥈</text>
+  <!-- text -->
+  <text x="120" y="519" font-family="monospace" font-size="13" font-weight="700" fill="#f8d3e3" letter-spacing="0.5">2nd Place — SMathHacks</text>
+  <text x="120" y="540" font-family="monospace" font-size="10" fill="#b89ec4" letter-spacing="0.5">competed, shipped, placed top 2</text>
+  <!-- badge -->
+  <rect x="700" y="512" width="70" height="22" rx="5" fill="#da3c72" fill-opacity="0.15" stroke="#da3c72" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="735" y="527" font-family="monospace" font-size="9" fill="#da3c72" text-anchor="middle" letter-spacing="1">TOP 2</text>
+
+  <!-- card 2 — 4 hackathons -->
+  <rect x="56" y="570" width="730" height="66" rx="10" fill="url(#card)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.5"/>
+  <rect x="56" y="570" width="4" height="66" rx="2" fill="#4b2981"/>
+  <rect x="72" y="586" width="36" height="36" rx="8" fill="#4b2981" fill-opacity="0.2"/>
+  <text x="90" y="609" font-family="monospace" font-size="16" fill="#c9a8e8" text-anchor="middle">💻</text>
+  <text x="120" y="595" font-family="monospace" font-size="13" font-weight="700" fill="#f8d3e3" letter-spacing="0.5">4 Hackathons Competed</text>
+  <text x="120" y="616" font-family="monospace" font-size="10" fill="#b89ec4" letter-spacing="0.5">and counting — each one ships something real</text>
+  <rect x="700" y="588" width="70" height="22" rx="5" fill="#4b2981" fill-opacity="0.2" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="735" y="603" font-family="monospace" font-size="9" fill="#c9a8e8" text-anchor="middle" letter-spacing="1">× 4</text>
+
+  <!-- card 3 — builder mindset -->
+  <rect x="56" y="646" width="354" height="66" rx="10" fill="url(#card)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.4"/>
+  <rect x="56" y="646" width="4" height="66" rx="2" fill="#43bbc2"/>
+  <rect x="72" y="662" width="36" height="36" rx="8" fill="#43bbc2" fill-opacity="0.1"/>
+  <text x="90" y="685" font-family="monospace" font-size="16" fill="#43bbc2" text-anchor="middle">🔧</text>
+  <text x="120" y="671" font-family="monospace" font-size="12" font-weight="700" fill="#f8d3e3">Builder Mindset</text>
+  <text x="120" y="691" font-family="monospace" font-size="10" fill="#b89ec4">builds from scratch, no shortcuts</text>
+
+  <!-- card 4 — experimenter -->
+  <rect x="432" y="646" width="354" height="66" rx="10" fill="url(#card)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.4"/>
+  <rect x="432" y="646" width="4" height="66" rx="2" fill="#f4dca5"/>
+  <rect x="448" y="662" width="36" height="36" rx="8" fill="#f4dca5" fill-opacity="0.1"/>
+  <text x="466" y="685" font-family="monospace" font-size="16" fill="#f4dca5" text-anchor="middle">⚡</text>
+  <text x="496" y="671" font-family="monospace" font-size="12" font-weight="700" fill="#f8d3e3">Always Experimenting</text>
+  <text x="496" y="691" font-family="monospace" font-size="10" fill="#b89ec4">new tech every season</text>
+
+  <!-- section divider -->
+  <line x1="56" y1="732" x2="804" y2="732" stroke="#4b2981" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SECTION 4 — GITHUB STATS (image refs)       -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <rect x="56" y="750" width="4" height="20" rx="2" fill="#43bbc2"/>
+  <text x="68" y="766" font-family="monospace" font-size="13" font-weight="700"
+        fill="#f8d3e3" letter-spacing="4">GITHUB STATS</text>
+
+  <!-- stats placeholder cards (images loaded externally via README wrapper) -->
+  <rect x="56" y="784" width="356" height="130" rx="10" fill="url(#card)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="234" y="840" font-family="monospace" font-size="10" fill="#7a5c8a" text-anchor="middle">github-readme-stats</text>
+  <text x="234" y="858" font-family="monospace" font-size="9" fill="#4b2981" text-anchor="middle" letter-spacing="1">[ top languages ]</text>
+  <text x="234" y="876" font-family="monospace" font-size="8" fill="#4b2981" fill-opacity="0.5" text-anchor="middle">place stat card here</text>
+
+  <rect x="428" y="784" width="358" height="130" rx="10" fill="url(#card)" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="607" y="840" font-family="monospace" font-size="10" fill="#7a5c8a" text-anchor="middle">github-readme-stats</text>
+  <text x="607" y="858" font-family="monospace" font-size="9" fill="#4b2981" text-anchor="middle" letter-spacing="1">[ overview ]</text>
+  <text x="607" y="876" font-family="monospace" font-size="8" fill="#4b2981" fill-opacity="0.5" text-anchor="middle">place stat card here</text>
+
+  <!-- streak placeholder -->
+  <rect x="180" y="928" width="500" height="100" rx="10" fill="url(#card)" stroke="#da3c72" stroke-width="0.75" stroke-opacity="0.3"/>
+  <text x="430" y="974" font-family="monospace" font-size="10" fill="#7a5c8a" text-anchor="middle">github-readme-streak-stats</text>
+  <text x="430" y="992" font-family="monospace" font-size="8" fill="#4b2981" fill-opacity="0.5" text-anchor="middle">place streak card here</text>
+
+  <text x="430" y="1046" font-family="monospace" font-size="9" fill="#4b2981" fill-opacity="0.6" text-anchor="middle">↑  add stat images in README.md wrapping this SVG</text>
+
+  <!-- section divider -->
+  <line x1="56" y1="1064" x2="804" y2="1064" stroke="#4b2981" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SECTION 5 — ABOUT ME                        -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <rect x="56" y="1082" width="4" height="20" rx="2" fill="#c9a8e8"/>
+  <text x="68" y="1098" font-family="monospace" font-size="13" font-weight="700"
+        fill="#f8d3e3" letter-spacing="4">ABOUT ME</text>
+
+  <!-- code block bg -->
+  <rect x="56" y="1114" width="730" height="198" rx="10" fill="#0b0618" stroke="#4b2981" stroke-width="0.75" stroke-opacity="0.6"/>
+  <!-- code block top bar -->
+  <rect x="56" y="1114" width="730" height="28" rx="10" fill="#120825"/>
+  <rect x="56" y="1128" width="730" height="14" fill="#120825"/>
+  <circle cx="78" cy="1128" r="5" fill="#da3c72" fill-opacity="0.5"/>
+  <circle cx="96" cy="1128" r="5" fill="#f4dca5" fill-opacity="0.5"/>
+  <circle cx="114" cy="1128" r="5" fill="#43bbc2" fill-opacity="0.5"/>
+  <text x="430" y="1133" font-family="monospace" font-size="9" fill="#7a5c8a" text-anchor="middle">nebeux.py</text>
+
+  <!-- code lines -->
+  <text x="80" y="1162" font-family="monospace" font-size="12" fill="#c9a8e8">nebeux <tspan fill="#da3c72">=</tspan> <tspan fill="#f8d3e3">{</tspan></text>
+  <text x="80" y="1182" font-family="monospace" font-size="12" fill="#7a5c8a">    <tspan fill="#b89ec4">"status"</tspan><tspan fill="#da3c72">:</tspan>      <tspan fill="#43bbc2">"full-time coder &amp; highschooler"</tspan><tspan fill="#f8d3e3">,</tspan></text>
+  <text x="80" y="1202" font-family="monospace" font-size="12" fill="#7a5c8a">    <tspan fill="#b89ec4">"watching"</tspan><tspan fill="#da3c72">:</tspan>    <tspan fill="#43bbc2">"【推しの子】 — obsessed, no notes"</tspan><tspan fill="#f8d3e3">,</tspan></text>
+  <text x="80" y="1222" font-family="monospace" font-size="12" fill="#7a5c8a">    <tspan fill="#b89ec4">"exploring"</tspan><tspan fill="#da3c72">:</tspan>  <tspan fill="#f8d3e3">[</tspan><tspan fill="#43bbc2">"Python"</tspan><tspan fill="#f8d3e3">, </tspan><tspan fill="#43bbc2">"React"</tspan><tspan fill="#f8d3e3">, </tspan><tspan fill="#43bbc2">"Flask APIs"</tspan><tspan fill="#f8d3e3">],</tspan></text>
+  <text x="80" y="1242" font-family="monospace" font-size="12" fill="#7a5c8a">    <tspan fill="#b89ec4">"arch_enemy"</tspan><tspan fill="#da3c72">:</tspan> <tspan fill="#43bbc2">"TypeError"</tspan><tspan fill="#f8d3e3">,</tspan></text>
+  <text x="80" y="1262" font-family="monospace" font-size="12" fill="#7a5c8a">    <tspan fill="#b89ec4">"philosophy"</tspan><tspan fill="#da3c72">:</tspan> <tspan fill="#43bbc2">"learning by creating &gt; everything else"</tspan><tspan fill="#f8d3e3">,</tspan></text>
+  <text x="80" y="1282" font-family="monospace" font-size="12" fill="#f8d3e3">}</text>
+
+  <!-- section divider -->
+  <line x1="56" y1="1330" x2="804" y2="1330" stroke="#4b2981" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SECTION 6 — CONNECT                         -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <rect x="56" y="1348" width="4" height="20" rx="2" fill="#da3c72"/>
+  <text x="68" y="1364" font-family="monospace" font-size="13" font-weight="700"
+        fill="#f8d3e3" letter-spacing="4">CONNECT</text>
+
+  <!-- github button -->
+  <rect x="280" y="1380" width="300" height="20" rx="5" fill="#da3c72" fill-opacity="0.08" stroke="#da3c72" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="430" y="1394" font-family="monospace" font-size="11" fill="#f8d3e3" text-anchor="middle" letter-spacing="2">github.com / nebeux</text>
+
+  <!-- footer star strip -->
+  <text x="430" y="1412" font-family="monospace" font-size="8" fill="#4b2981" fill-opacity="0.5" text-anchor="middle" letter-spacing="8">✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦</text>
+
+</svg>

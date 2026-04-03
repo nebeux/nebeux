@@ -34,11 +34,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nebeux?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/nebeux?label=Public+Repos&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/nebeux?label=Top+Language&style=for-the-badge" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebeux&show_icons=true&locale=en&layout=compact" alt="nebeux" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&locale=en" alt="nebeux" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebeux&" alt="nebeux" /></p>
 ---
 
 ## ⚡ About Me

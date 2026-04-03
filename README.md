@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/1b5a3518e5052a3702790ea381c8db3f/728cc3d59b8d4366-51/s1280x1920/7afc5e5b378985039494dd171d1fb184e579d6c5.png" width="100%" />
+  <img src="https://th.bing.com/th/id/OIP.vDiUvuf6TjCzNUOcUCFwYAHaDt?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <strong>nebeux</strong></h1>
 <p align="center">
-  🚀 Builder • 💻 Hacker • 🧠 Learning by doing
+  🚀 Builder • 💻 Hacker • 🧠 Learning by application
 </p>
 
 ---
@@ -43,8 +43,8 @@
 
 ## ⚡ About Me
 
-- 🎮 Anime enthusiast  
-- 💻 Full-time coder & lifelong learner  
+- 🎮 Anime enthusiast (especially this anime called Oshi no Ko)  
+- 💻 Coder & Highschooler 
 - 😅 I dislike TypeErrors (don’t we all?)  
 - 🌱 Currently exploring: advanced Python & React projects  
 

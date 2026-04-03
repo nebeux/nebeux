@@ -5,8 +5,16 @@
 
 <h1 align="center">👋 Hey, I'm <strong>nebeux</strong></h1>
 <p align="center">
-  🚀 Full-Stack • 💻 Flask lover (genuinely) • 🧠 Learning by application
+  🚀 Full-Stack • 💻 Flask lover • 🧠 Learning by doing
 </p>
+
+<div align="center">
+  <a href="#tech-stack">🧰 Tech Stack</a> •
+  <a href="#hackathons--achievements">🏆 Hackathons</a> •
+  <a href="#github-stats">📊 GitHub Stats</a> •
+  <a href="#about-me">⚡ About Me</a> •
+  <a href="#connect">📫 Connect</a>
+</div>
 
 ---
 
@@ -29,24 +37,25 @@
 - 🔧 Passionate about building projects from scratch  
 - ⚡ Always experimenting and learning new tech
 
----
-
-
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebeux&show_icons=true&locale=en&layout=compact" alt="nebeux" /></p>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nebeux&show_icons=true&locale=en&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&locale=en" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nebeux" alt="GitHub Streak Stats" width="60%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&locale=en" alt="nebeux" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebeux&" alt="nebeux" /></p>
 ---
 
 ## ⚡ About Me
 
-- 🎮 Anime enthusiast (especially this anime called Oshi no Ko)  
-- 💻 Coder & Highschooler 
+- 🎮 Anime enthusiast (currently obsessed with *Oshi no Ko*)  
+- 💻 Full-time coder & highschooler  
 - 😅 I dislike TypeErrors (don’t we all?)  
 - 🌱 Currently exploring: advanced Python & React projects  
+- ✨ Believer in learning by creating
 
 ---
 
@@ -55,5 +64,11 @@
 <p align="center">
   <a href="https://github.com/nebeux">
     <img src="https://img.shields.io/badge/GitHub-nebeux-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/nebeux" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nebeux-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nebeux@example.com">
+    <img src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=nebeux&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.fRTAbx8PwnIJ-BxhgRFUYAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" />
 </p>
 
 <h1 align="center">👋 Hey, I'm nebeux</h1>
@@ -41,9 +41,9 @@
 
 ## ⚡ About Me
 
-- I build fast ⚡
-- I learn by shipping 🚀
-- I like turning ideas into real projects
+- I build fast ⚡  
+- I learn by shipping 🚀  
+- I like turning ideas into real projects  
 
 ---
 
@@ -53,10 +53,4 @@
   <a href="https://github.com/nebeux">
     <img src="https://img.shields.io/badge/GitHub-nebeux-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>

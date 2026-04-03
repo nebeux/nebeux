@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.vDiUvuf6TjCzNUOcUCFwYAHaDt?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" height="50%" />
+  <img src="https://th.bing.com/th/id/OIP.vDiUvuf6TjCzNUOcUCFwYAHaDt?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" height="30%" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <strong>nebeux</strong></h1>

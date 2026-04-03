@@ -35,9 +35,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&count_private=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebeux&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/nebeux?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/nebeux?label=Public+Repos&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/nebeux?label=Top+Language&style=for-the-badge" />
 </p>
 ---
 

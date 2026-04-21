@@ -45,10 +45,10 @@
 ## 🏆 Hackathons & Achievements
 
 ```
-✦ 2nd Place — SMathHacks .................. 🥈 top 2
-✦ 4 hackathons competed & shipped .......... 💻 and counting
-✦ Builds everything from scratch ........... 🔧 flask lover
-✦ Always picking up new tech ............... ⚡ every leap year... ;)
+✦ 2nd Place — SMathHacks 
+✦ Most Innovative — UNCC 4/19 HS Hackathon 
+✦ 4 hackathons competed & shipped 
+✦ Builds everything from scratch 
 ```
 
 <br/><br/>
@@ -59,12 +59,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&theme=transparent&title_color=da3c72&text_color=b89ec4&icon_color=43bbc2&border_color=4b2981&border_radius=10" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nebeux&layout=compact&theme=transparent&title_color=da3c72&text_color=b89ec4&border_color=4b2981&border_radius=10" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nebeux&theme=transparent&ring=da3c72&fire=f4dca5&currStreakLabel=43bbc2&sideLabels=b89ec4&sideNums=f8d3e3&dates=7a5c8a&border=4b2981&border_radius=10" width="60%"/>
-
-</div>
 
 <br/>
 <br/>

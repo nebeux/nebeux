@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="nebeux banner"/>
+<img src="./nebeux.png" width="100%" alt="nebeux banner"/>
 
 <br/>
 <br/>

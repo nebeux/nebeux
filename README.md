@@ -1,21 +1,6 @@
 <div align="center">
 
 <img src="./nebeux.png" width="100%" style='border-radius:10px' alt="nebeux banner"/>
-
-<br/>
-<br/>
-
-*「落ちるのが怖いなら、もっと落ちてしまうだろう。」*
-<br/>
-<sub>*"If you're scared of falling, you'll just fall even more."* - Oshi no Ko</sub>
-
-<br/>
-
-[![](https://img.shields.io/badge/🧰_Stack-0a0612?style=flat-square)](##-tech-stack)
-[![](https://img.shields.io/badge/🏆_Hackathons-0a0612?style=flat-square)](##-hackathons)
-[![](https://img.shields.io/badge/📊_Stats-0a0612?style=flat-square)](##-github-stats)
-[![GitHub](https://img.shields.io/badge/📫_Connect-0a0612?style=flat-square)](https://github.com/nebeux)
-
 </div>
 
 <br/>
@@ -55,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nebeux&show_icons=true&theme=transparent&title_color=da3c72&text_color=b89ec4&icon_color=43bbc2&border_color=4b2981&border_radius=10" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nebeux&layout=compact&theme=transparent&title_color=da3c72&text_color=b89ec4&border_color=4b2981&border_radius=10" width="48%"/>

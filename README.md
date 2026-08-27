@@ -42,9 +42,7 @@
 <div align="left">
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishsakthivel&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=krishsakthivel&theme=tokyonight" />
